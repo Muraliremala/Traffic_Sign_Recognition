@@ -2,5 +2,5 @@ numpy
 tensorflow
 gdown
 flask
-cv2
+opencv-python
 locale
