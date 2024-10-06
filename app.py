@@ -9,8 +9,8 @@ import tensorflow as tf
 import cv2
 import locale
 
-sys.stdout.reconfigure(encoding='utf-8')
-sys.stderr.reconfigure(encoding='utf-8')
+# sys.stdout.reconfigure(encoding='utf-8')
+# sys.stderr.reconfigure(encoding='utf-8')
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 from tensorflow.keras.models import load_model
