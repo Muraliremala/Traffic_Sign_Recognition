@@ -3,4 +3,3 @@ tensorflow
 gdown
 flask
 opencv-python
-locale
